@@ -81,5 +81,4 @@ If you need to **compare the cognitive complexity and cyclomatic complexity** of
 </rule>
 ```
 
-<https://github.com/tsantalis/RefactoringMiner/issues/685>
 
