@@ -1,4 +1,4 @@
-# Automated-Program-Simplification
+# SimpT5_data
 
 ### Tables in Current Repo
 the table ``resource/table/Simplifacation_study.md`` is studied pr link with simplification type in the whole study.
@@ -80,22 +80,6 @@ If you need to **compare the cognitive complexity and cyclomatic complexity** of
     </properties>
 </rule>
 ```
-
-### Following are the issues that we submitted to RefactoringMiner
-
-<https://github.com/tsantalis/RefactoringMiner/issues/678>
-
-<https://github.com/tsantalis/RefactoringMiner/issues/679>
-
-<https://github.com/tsantalis/RefactoringMiner/issues/681>
-
-<https://github.com/tsantalis/RefactoringMiner/issues/682>
-
-<https://github.com/tsantalis/RefactoringMiner/issues/680>
-
-<https://github.com/tsantalis/RefactoringMiner/issues/683>
-
-<https://github.com/tsantalis/RefactoringMiner/issues/684>
 
 <https://github.com/tsantalis/RefactoringMiner/issues/685>
 
